@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLKsRt4fHvWwx11NW41IUh5XVNTx+F3U6VZvEDXfVOkvJaJyfVl0r06M7w2+Oh3wZ0+qBTV4wFE2a7WiZeMO4A==",
+  "success": true,
+  "projectFilePath": "D:\\PARISHU\\ParishuProject\\Angular8LoginSample\\Angular8LoginSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SINGH\\.nuget\\packages\\microsoft.typescript.msbuild\\3.8.3\\microsoft.typescript.msbuild.3.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}
